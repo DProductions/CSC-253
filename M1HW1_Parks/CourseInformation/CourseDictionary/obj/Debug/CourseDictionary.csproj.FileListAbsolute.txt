@@ -1,0 +1,6 @@
+C:\Users\adamp\Desktop\CourseInformation\CourseDictionary\bin\Debug\CourseDictionary.dll
+C:\Users\adamp\Desktop\CourseInformation\CourseDictionary\bin\Debug\CourseDictionary.pdb
+C:\Users\adamp\Desktop\CourseInformation\CourseDictionary\obj\Debug\CourseDictionary.csproj.AssemblyReference.cache
+C:\Users\adamp\Desktop\CourseInformation\CourseDictionary\obj\Debug\CourseDictionary.csproj.CoreCompileInputs.cache
+C:\Users\adamp\Desktop\CourseInformation\CourseDictionary\obj\Debug\CourseDictionary.dll
+C:\Users\adamp\Desktop\CourseInformation\CourseDictionary\obj\Debug\CourseDictionary.pdb

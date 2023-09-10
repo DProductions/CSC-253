@@ -1,0 +1,11 @@
+C:\Users\adamp\Desktop\CourseInformation\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\adamp\Desktop\CourseInformation\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\adamp\Desktop\CourseInformation\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\adamp\Desktop\CourseInformation\ConsoleUI\bin\Debug\CourseDictionary.dll
+C:\Users\adamp\Desktop\CourseInformation\ConsoleUI\bin\Debug\CourseDictionary.pdb
+C:\Users\adamp\Desktop\CourseInformation\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\adamp\Desktop\CourseInformation\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\adamp\Desktop\CourseInformation\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\adamp\Desktop\CourseInformation\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\adamp\Desktop\CourseInformation\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\adamp\Desktop\CourseInformation\ConsoleUI\obj\Debug\ConsoleUI.pdb
