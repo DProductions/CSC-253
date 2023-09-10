@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{5F1208E2-7977-4E9E-9EB7-B583FB22472C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionDictionary", "EncryptionDictionary\EncryptionDictionary.csproj", "{59FDDA50-F2B4-447B-B478-C01B97D29D51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F1208E2-7977-4E9E-9EB7-B583FB22472C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1208E2-7977-4E9E-9EB7-B583FB22472C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1208E2-7977-4E9E-9EB7-B583FB22472C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1208E2-7977-4E9E-9EB7-B583FB22472C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59FDDA50-F2B4-447B-B478-C01B97D29D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59FDDA50-F2B4-447B-B478-C01B97D29D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59FDDA50-F2B4-447B-B478-C01B97D29D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59FDDA50-F2B4-447B-B478-C01B97D29D51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46FAFB76-5FB6-4E14-A914-616D287DBE90}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\adamp\Desktop\FileEncryptionAndDecryption\EncryptionDictionary\bin\Debug\EncryptionDictionary.dll
+C:\Users\adamp\Desktop\FileEncryptionAndDecryption\EncryptionDictionary\bin\Debug\EncryptionDictionary.pdb
+C:\Users\adamp\Desktop\FileEncryptionAndDecryption\EncryptionDictionary\obj\Debug\EncryptionDictionary.csproj.CoreCompileInputs.cache
+C:\Users\adamp\Desktop\FileEncryptionAndDecryption\EncryptionDictionary\obj\Debug\EncryptionDictionary.dll
+C:\Users\adamp\Desktop\FileEncryptionAndDecryption\EncryptionDictionary\obj\Debug\EncryptionDictionary.pdb
+C:\Users\adamp\Desktop\FileEncryptionAndDecryption\EncryptionDictionary\obj\Debug\EncryptionDictionary.csproj.AssemblyReference.cache
+C:\Users\adamp\Desktop\M1HW2_Parks\FileEncryptionAndDecryption\EncryptionDictionary\bin\Debug\EncryptionDictionary.dll
+C:\Users\adamp\Desktop\M1HW2_Parks\FileEncryptionAndDecryption\EncryptionDictionary\bin\Debug\EncryptionDictionary.pdb
+C:\Users\adamp\Desktop\M1HW2_Parks\FileEncryptionAndDecryption\EncryptionDictionary\obj\Debug\EncryptionDictionary.csproj.AssemblyReference.cache
+C:\Users\adamp\Desktop\M1HW2_Parks\FileEncryptionAndDecryption\EncryptionDictionary\obj\Debug\EncryptionDictionary.csproj.CoreCompileInputs.cache
+C:\Users\adamp\Desktop\M1HW2_Parks\FileEncryptionAndDecryption\EncryptionDictionary\obj\Debug\EncryptionDictionary.dll
+C:\Users\adamp\Desktop\M1HW2_Parks\FileEncryptionAndDecryption\EncryptionDictionary\obj\Debug\EncryptionDictionary.pdb
